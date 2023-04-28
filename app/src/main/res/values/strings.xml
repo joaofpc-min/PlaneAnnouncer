@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plane Announcer</string>
+    <string name="notify">There are planes above you right now!</string>
+
+</resources>

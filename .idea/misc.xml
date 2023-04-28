@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MASTER/Downloads/VulkanSamples-master/VulkanSamples-master/Sample-Programs/v3PlaneAnnouncer3/app/src/main/res/layout/activity_main.xml" value="0.10412147505422993" />
+        <entry key="..\:/Users/MASTER/Downloads/VulkanSamples-master/VulkanSamples-master/Sample-Programs/v3PlaneAnnouncer3/app/src/main/res/layout/custom_info_contents.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/MASTER/Downloads/VulkanSamples-master/VulkanSamples-master/Sample-Programs/v3PlaneAnnouncer3/app/src/main/res/layout/fragment_planes.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/MASTER/Downloads/VulkanSamples-master/VulkanSamples-master/Sample-Programs/v3PlaneAnnouncer3/app/src/main/res/layout/planes_item.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/MASTER/Downloads/VulkanSamples-master/VulkanSamples-master/Sample-Programs/v3PlaneAnnouncer3/app/src/main/res/menu/planes_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.forage.MainActivity">
+    <item
+        android:id="@+id/option_get_plane"
+        android:orderInCategory="100"
+        android:title="Get Planes" />
+    <item
+        android:id="@+id/option_display_planes"
+        android:orderInCategory="100"
+        android:title="Display Planes" />
+    <item
+        android:id="@+id/option_stop_searching"
+        android:orderInCategory="100"
+        android:title="Stop Searching" />
+</menu>
